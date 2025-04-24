@@ -18,11 +18,11 @@
 
 ## Misattribution of diary authorship to mentioned individuals:
 
-**Fragment**: In the morning, *I* inspected the new ship... In the evening, the Ghana cin-ema was shown in the dining room – they showed views of Crimea and comic scenes.
+**Fragment**: In the morning, *I* inspected the new ship... In the evening, the Ghana cinema was shown in the dining room – they showed views of Crimea and comic scenes.
 
 **Answer**: The *sailors'* life included inspecting new ships, swimming in the sea and even leisure – the sailors watched films with views of Crimea and comic scenes.
 
-**Explanation**: Identification of the author with sailors without mention in the frag-ments.
+**Explanation**: Identification of the author with sailors without mention in the fragments.
 
 ## Drawing conclusions unsupported by source fragments:
 
@@ -30,4 +30,4 @@
 
 **Answer**: A wounded lieutenant is mentioned who lost a leg and needed constant help, but rarely asked for it. He was indifferent to the doctors' questions and spent time alone, *which indicates insufficient attention to the psychological state of patients*.
 
-**Explanation**: The fragment does not contain enough information about the conclu-sion.
+**Explanation**: The fragment does not contain enough information about the conclusion.
