@@ -6,9 +6,9 @@
 
 ## List of appendices
 
-* [**Appendix A.** Chatbot interface]()
-* [**Appendix B.** Prompt with instruction for solving the Text-to-SQL task]()
-* [**Appendix C.** Topics of the experimental dataset]()
-* [**Appendix D.** Prompt for generating an answer to a question based on relevant fragments]()
-* [**Appendix E.** Description of expert scoring criteria for answer generation evaluation]()
-* [**Appendix F.** Examples of factual errors of LLMs found during evaluation analysis]()
+* [**Appendix A.** Chatbot interface](./appendix_a_chatbot_interface.md)
+* [**Appendix B.** Prompt with instruction for solving the Text-to-SQL task](./appendix_b_text2sql_prompt.md)
+* [**Appendix C.** Topics of the experimental dataset](./appendix_c_dataset_topics.md)
+* [**Appendix D.** Prompt for generating an answer to a question based on relevant fragments](./appendix_d_generation_prompt.md)
+* [**Appendix E.** Description of expert scoring criteria for answer generation evaluation](./appendix_e_scoring_description.md)
+* [**Appendix F.** Examples of factual errors of LLMs found during evaluation analysis](./appendix_f_error_analysis.md)
